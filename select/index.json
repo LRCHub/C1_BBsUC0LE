@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "カジカ(YAMAZARemix version)",
+  "base_artist": "YAMAZARU",
+  "createdAt": "2026-02-12T07:51:23.486978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カジカ",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_01_カジカ_山猿.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カジカ",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_02_カジカ_山猿.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カジカ",
+      "artist": "山猿",
+      "has_synced": false,
+      "path": "select/pl_03_カジカ_山猿.txt"
+    }
+  ]
+}
